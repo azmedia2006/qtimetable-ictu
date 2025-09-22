@@ -9,7 +9,7 @@
 
 QTimeTable là dự án mã nguồn mở được phát triển bởi sinh viên ICTU, với mục tiêu hỗ trợ cộng đồng sinh viên quản lý thời gian học tập hiệu quả khi mà nhà trường chưa có ứng dụng chính thức cho việc này.
 
-🌐 **Website:** [https://tkb.quanhd.net/](https://tkb.quanhd.net/)
+🌐 **Website:** [https://lichhoc.iiiu.pro/](https://lichhoc.iiiu.pro/)
 
 ## ✨ Tính năng chính
 
@@ -44,7 +44,7 @@ QTimeTable là dự án mã nguồn mở được phát triển bởi sinh viên
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/HDQuanDev/qtimetable-ictu.git
+git clone https://github.com/azmedia2006/qtimetable-ictu.git
 cd qtimetable-ictu
 ```
 
@@ -130,7 +130,7 @@ Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng!
 
 ## 🐛 Báo lỗi
 
-Nếu bạn gặp lỗi hoặc có đề xuất, vui lòng tạo [Issue](https://github.com/HDQuanDev/qtimetable-ictu/issues) với thông tin chi tiết:
+Nếu bạn gặp lỗi hoặc có đề xuất, vui lòng tạo [Issue](https://github.com/azmedia2006/qtimetable-ictu/issues) với thông tin chi tiết:
 
 - Mô tả lỗi
 - Các bước tái hiện
@@ -148,13 +148,13 @@ Nếu bạn gặp lỗi hoặc có đề xuất, vui lòng tạo [Issue](https:/
 
 ## 👥 Đội ngũ phát triển
 
-- **Hứa Đức Quân** - [@HDQuanDev](https://github.com/HDQuanDev) - Lead Developer
+- **Minh Quân** - [@HDQuanDev](https://github.com/azmedia2006) - Lead Developer
 
 ## 📞 Liên hệ
 
-- 📧 Email: [contact@quanhd.net](mailto:hdquandev@quanhd.net)
-- 🌐 Website: [https://tkb.quanhd.net/](https://tkb.quanhd.net/)
-- 💬 GitHub Issues: [Tạo issue mới](https://github.com/HDQuanDev/qtimetable-ictu/issues)
+- 📧 Email: [contact@doanquan3348](mailto:doanquan3348@gmail.com)
+- 🌐 Website: [https://lichhoc.iiiu.pro/](https://lichhoc.iiiu.pro/)
+- 💬 GitHub Issues: [Tạo issue mới](https://github.com/azmedia2006/qtimetable-ictu/issues)
 
 ## ⭐ Ủng hộ dự án
 
