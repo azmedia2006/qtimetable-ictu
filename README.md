@@ -1,6 +1,6 @@
 # QTimeTable ICTU 📅
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/HDQuanDev/qtimetable-ictu)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/azmedia2006/qtimetable-ictu)
 [![React Native](https://img.shields.io/badge/React%20Native-0.74.5-61DAFB.svg)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-51.0.39-000020.svg)](https://expo.dev/)
 [![License](https://img.shields.io/badge/license-Open%20Source-green.svg)](https://github.com/HDQuanDev/qtimetable-ictu)
@@ -148,7 +148,7 @@ Nếu bạn gặp lỗi hoặc có đề xuất, vui lòng tạo [Issue](https:/
 
 ## 👥 Đội ngũ phát triển
 
-- **Minh Quân** - [@HDQuanDev](https://github.com/azmedia2006) - Lead Developer
+- **Minh Quân** - [@MinhQuan](https://github.com/azmedia2006) - Lead Developer
 
 ## 📞 Liên hệ
 
